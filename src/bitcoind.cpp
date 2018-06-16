@@ -173,7 +173,7 @@ static bool AppInit(int argc, char* argv[])
 
     if (!fRet)
     {
-        Interrupt();
+        Interrupt(); 
     } else {
         WaitForShutdown();
     }

@@ -1,0 +1,17 @@
+alertkey.hex
+04d5764f13ed668bbb0a80f183b28ade402635b1207be292a2041b6c11589d300d76b454361bc6f7b5ae3472d4a4c7369f8fb0e247de7101593b61340b83df1950
+
+
+gensiscoinbase.hex
+04d066d7ada630ffed97aa6d6fb7a37c2c7b4c344907ea96c2827d1f1c3a1952796235826fe54744bd1d4a1fdc901eecafedc8ec593fd4bedf613fd0a3e6066e95
+
+
+testnetalert.hex
+0484d5c4b2e23fb93c9f58611933e5c9272dfe21b1f1ed9cb20e9dfd5dc027331ae5cc13c767362dbe37b0be054da03f4b668d37e09dc423e514299c48d58033b0
+
+
+
+<span>
+cd ~/src/newcoin
+
+find . -type f -print0 | xargs -0 sed -i 's/bitcoin/newcoin/g'<br>find . -type f -print0 | xargs -0 sed -i 's/Bitcoin/Newcoin/g'<br>find . -type f -print0 | xargs -0 sed -i 's/BitCoin/Newcoin/g'<br>find . -type f -print0 | xargs -0 sed -i 's/BITCOIN/NEWCOIN/g'<br>find . -type f -print0 | xargs -0 sed -i 's/BTC/NCN/g'<br>find . -type f -print0 | xargs -0 sed -i 's/btc/NCN/g'<br>find . -type f -print0 | xargs -0 sed -i 's/Btc/NCN/g'<br>find . -exec rename 's/bitcoin/newcoin/' {} ";"<br>find . -exec rename 's/btc/NCN/' {} ";"</span>

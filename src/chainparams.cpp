@@ -120,7 +120,7 @@ public:
         nPruneAfterHeight = 100000;
 
         // genesis = CreateGenesisBlock(1231006506, 2083236898, 0x1d00ffff, 1, 50 * COIN);
-        genesis = CreateGenesisBlock(1529375904, 1055416755, 0x1f00ffff , 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1529464291, 1181, 0x1f00ffff , 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
         // assert(consensus.hashGenesisBlock == uint256S("0x000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f"));
         // assert(genesis.hashMerkleRoot == uint256S("0x4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b"));
@@ -154,13 +154,14 @@ public:
 
         checkpointData = {
             {
-                { 0, uint256S("00000000e278c13681a2072455672283ab91e26860768a6ac6135061ab92af04")},
+                //{ 0, uint256S("00000000e278c13681a2072455672283ab91e26860768a6ac6135061ab92af04")},
+                { 0, uint256S("0000e61168550d33ecdd62013056af55e5633407e8cb8a79a4e92a259bf44321")},
             }
         };
 
         chainTxData = ChainTxData{
             // Data as of block 0000000000000000002d6cca6761c99b3c2e936f9a0e304b7c7651a993f461de (height 506081).
-            1529375904, // * UNIX timestamp of last known number of transactions
+            1529464291, // * UNIX timestamp of last known number of transactions
             0,  // * total number of transactions between genesis and that timestamp
                         //   (the tx=... number in the ChainStateFlushed debug.log lines)
             1         // * estimated number of transactions per second after that timestamp

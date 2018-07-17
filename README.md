@@ -1,11 +1,12 @@
 基于 bitcoin 源码修改创世快，发布自己的山寨币
+加入我的星球，教你怎么修改发布自己想要的币（少走弯路，直达终点）
+<img src="http://octk4wj3v.bkt.clouddn.com/bitcoin-xingqiu.png" width="300" />
 
-交流：
-微信
-<img src="https://img-blog.csdn.net/20180620165928388?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhYjcxOTU5MTE1Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width=“300” />
+
+微信：cy719591157
+<img src="http://octk4wj3v.bkt.clouddn.com/get-myweixin.png" width=“300” />
 QQ群：
-<img src="https://img-blog.csdn.net/20180620172238899?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhYjcxOTU5MTE1Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="300" />
-
+<img src="http://octk4wj3v.bkt.clouddn.com/bitcoin-qq-group.jpg" width="300" />
 
 
 Bitcoin Core integration/staging tree

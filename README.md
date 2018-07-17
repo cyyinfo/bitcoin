@@ -1,6 +1,10 @@
 基于 bitcoin 源码修改创世快，发布自己的山寨币
 
-
+交流：
+微信
+<img src="https://img-blog.csdn.net/20180620165928388?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhYjcxOTU5MTE1Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width=“300” />
+QQ群：
+<img src="https://img-blog.csdn.net/20180620172238899?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhYjcxOTU5MTE1Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="300" />
 
 
 

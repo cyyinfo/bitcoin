@@ -1,3 +1,9 @@
+基于 bitcoin 源码修改创世快，发布自己的山寨币
+
+
+
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
